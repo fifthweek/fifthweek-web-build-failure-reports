@@ -1,1 +1,0 @@
-{"description":"should persist the changes|on successful submission|edit channel form","passed":false,"os":"LINUX","browser":{"name":"firefox","version":"31.0"},"message":"timeout: timed out after 30000 msec waiting for spec to complete","trace":"No Stack trace information","screenShotFile":"00c60088-005e-0050-00ac-000000b500ac.png"}
