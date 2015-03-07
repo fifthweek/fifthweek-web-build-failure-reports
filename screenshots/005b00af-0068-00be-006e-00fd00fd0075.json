@@ -1,0 +1,1 @@
+{"description":"should run once before all|when editing a default channel|edit channel form","passed":false,"os":"LINUX","browser":{"name":"firefox","version":"31.0"},"message":"timeout: timed out after 30000 msec waiting for spec to complete","trace":"No Stack trace information","screenShotFile":"005b00af-0068-00be-006e-00fd00fd0075.png"}
