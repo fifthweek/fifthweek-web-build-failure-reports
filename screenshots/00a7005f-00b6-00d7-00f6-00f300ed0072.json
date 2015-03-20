@@ -1,0 +1,1 @@
+{"description":"should not show the post after posting a file now|collection list form","passed":false,"os":"LINUX","browser":{"name":"firefox","version":"31.0"},"message":"timeout: timed out after 300000 msec waiting for spec to complete","trace":"No Stack trace information","screenShotFile":"00a7005f-00b6-00d7-00f6-00f300ed0072.png"}
