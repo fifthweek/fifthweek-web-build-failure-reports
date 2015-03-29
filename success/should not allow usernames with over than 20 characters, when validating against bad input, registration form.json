@@ -1,1 +1,0 @@
-{"description":"should not allow usernames with over than 20 characters|when validating against bad input|registration form","passed":true,"os":"Linux","browser":{"name":"chrome","version":"41.0.2272.101"},"message":"Passed.","screenShotFile":"success/should not allow usernames with over than 20 characters, when validating against bad input, registration form.png"}
